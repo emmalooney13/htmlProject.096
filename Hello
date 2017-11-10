@@ -1,0 +1,16 @@
+<DOCTYPE html>
+<html>
+      <head>
+           <title> Hello< amigos </title>
+     </head>
+     <body>
+     <h1> Simple header</h1>
+   
+     <h2> another header just smaller<h2>
+  
+     <h3> i dont know why you would use a header this smaller </h3>
+   
+     <h4> this is the smallest</h4>
+     </body>
+</html>     
+           
